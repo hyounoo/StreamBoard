@@ -67,3 +67,10 @@ C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\bin\Microsoft.Owin.Se
 C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\obj\Debug\StreamBoard.csprojResolveAssemblyReference.cache
 C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\obj\Debug\StreamBoard.dll
 C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\obj\Debug\StreamBoard.pdb
+C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\bin\ChallongeApiWrapper.dll
+C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\bin\RestSharp.dll
+C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\bin\ChallongeApiWrapper.pdb
+C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\bin\RestSharp.xml
+C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\obj\Debug\StreamBoard.Migrations.InitialCreate.resources
+C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\obj\Debug\StreamBoard.csproj.GenerateResource.Cache
+C:\Users\U1082328\Documents\GitHub\StreamBoard\StreamBoard\obj\Debug\StreamBoard.Migrations.ChallongeAPI.resources

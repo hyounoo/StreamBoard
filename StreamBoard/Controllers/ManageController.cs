@@ -299,6 +299,19 @@ namespace StreamBoard.Controllers
             });
         }
 
+        public async Task<ActionResult> ManageChallonge()
+        {
+            var user = await UserManager.FindByIdAsync(User.Identity.GetUserId());
+            if (user == null)
+            {
+                return View("Error");
+            }
+
+            ViewBag.ChallongeAPI = user.ChallongeAPI;
+
+            return View();
+        }
+
         //
         // POST: /Manage/LinkLogin
         [HttpPost]

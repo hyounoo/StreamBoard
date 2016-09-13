@@ -16,6 +16,8 @@ namespace StreamBoard.Models
             // Add custom user claims here
             return userIdentity;
         }
+
+        public string ChallongeAPI { get; set; }
     }
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
